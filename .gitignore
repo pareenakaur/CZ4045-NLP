@@ -1,0 +1,4 @@
+.venv
+word2vec_model.model
+fasttext_model.model
+fasttext_model.model.wv.vectors_ngrams.npy
