@@ -1,4 +1,10 @@
 .venv
-word2vec_model.model
-fasttext_model.model
-fasttext_model.model.wv.vectors_ngrams.npy
+glove_twitter_200.model
+glove_twitter_200.model.vectors.npy
+glove_wiki_gigaword_300.model
+glove_wiki_gigaword_300.model.vectors.npy
+wiki.en.vec
+word2vec_google_news_300.model
+word2vec_google_news_300.model.vectors.npy
+word2vec_ruscorpora_300.model
+word2vec_ruscorpora_300.model.vectors.npy
