@@ -41,7 +41,7 @@ jupyter notebook
 4. Run each cell sequentially in the provided notebooks.
 
 ## Explanation of Outputs
-Markdowns are indicated at the end an output to explain results obtained. For example:
+Markdowns are indicated at the end of the output to explain the results obtained. For example:
 ![image](https://github.com/user-attachments/assets/d8154175-8acb-479e-ac21-8d0da5f563a0)
 
 
