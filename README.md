@@ -7,8 +7,8 @@
 This project involves building a general classification system leveraging pretrained word embeddings like Word2Vec or GloVe for sentence classification, specifically targeting sentiment analysis. The goal is to assign sentiment labels to sentences while gaining hands-on experience with NLP applications of word embeddings and deep learning models. The system uses pretrained embeddings to represent words as feature-rich vectors, which are then fed into a deep learning model for classification. The focus is on training effective classifiers by fine-tuning these embeddings and evaluating their performance on sentiment tasks. 
 
 ## File Structure
-- **`Part1-WordEmbeddings.ipynb`**: Contains the preparation of the dataset and word embeddings 
-- **`Part2-RNNModel.ipynb`**: Includes the training and evaluation of the RNN model for sentiment classification
+- **`q1(updated).ipynb`**: Contains the preparation of the dataset and word embeddings 
+- **`q2(updated).ipynb`**: Includes the training and evaluation of the RNN model for sentiment classification
 - **`Part3-Enhancement.ipynb`**: Details the implementation of biLSTM, biGRU and CNN models and further enhancement using data augmentation techniques to improve on the RNN model in Part 2
 
 ## Installation and Dependencies
